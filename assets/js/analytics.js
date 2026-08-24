@@ -6,7 +6,7 @@
 (function () {
   "use strict";
 
-  var GA_MEASUREMENT_ID = "G-J3Y1PNFT3M";
+  var GA_MEASUREMENT_ID = "G-7KDJ7YCV49";
   var CONSENT_KEY = "so_consent_v1";
 
   window.dataLayer = window.dataLayer || [];
